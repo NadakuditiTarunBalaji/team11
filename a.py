@@ -1,4 +1,4 @@
-import cv2
+"""import cv2
 import numpy as np
 import mediapipe as mp
 from tensorflow.keras.models import load_model
@@ -101,3 +101,4 @@ def predict_drowsiness():
 
 # Run the prediction function
 predict_drowsiness()
+"""
