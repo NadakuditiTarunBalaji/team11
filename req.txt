@@ -1,7 +1,7 @@
 opencv-python
-tensorflow
 flask
 mediapipe
 tensorflow
 playsound==1.2.2
 numpy
+keras
